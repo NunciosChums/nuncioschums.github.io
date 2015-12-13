@@ -9,6 +9,9 @@ title: GPX Tracker 2
 [![Available on the app store](https://merlos.github.io/iOS-Open-GPX-Tracker/images/download-app-store.svg)](https://itunes.apple.com/app/gpx-tracker/id434117340?mt=8) 
 
 
+* Download source code: [https://github.com/susemi99/GPXTracker2](https://github.com/susemi99/GPXTracker2)
+ 
+
 * Draw route in Google map -> Export to KML -> Send to iOS
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/hDluVIuJGOo" frameborder="0" allowfullscreen></iframe>
@@ -18,4 +21,4 @@ title: GPX Tracker 2
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/zN4hl9Lkcb4" frameborder="0" allowfullscreen></iframe>
 
-* Download source code: [https://github.com/susemi99/GPXTracker2](https://github.com/susemi99/GPXTracker2)
+
