@@ -1,3 +1,9 @@
+---
+layout: post
+title: first test
+---
+
+
 테스트 
 테스트2
 	
