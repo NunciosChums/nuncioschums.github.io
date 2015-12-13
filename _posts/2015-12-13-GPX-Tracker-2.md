@@ -18,4 +18,4 @@ title: GPX Tracker 2
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/zN4hl9Lkcb4" frameborder="0" allowfullscreen></iframe>
 
-* Download source code: https://github.com/susemi99/GPXTracker2
+* Download source code: [https://github.com/susemi99/GPXTracker2](https://github.com/susemi99/GPXTracker2)
