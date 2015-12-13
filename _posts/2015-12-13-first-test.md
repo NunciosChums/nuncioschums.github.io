@@ -1,16 +1,13 @@
 ---
 layout: post
-title: first test
+title: GPX Tracker 2 
 ---
 
+[![Platform](http://img.shields.io/badge/platform-ios-lightgrey.svg?style=flat
+             )](https://developer.apple.com/resources/)
+[![Language](http://img.shields.io/badge/language-swift-orange.svg?style=flat
+             )](https://developer.apple.com/swift)
 
-테스트
+<iframe width="420" height="315" src="https://www.youtube.com/embed/hDluVIuJGOo" frameborder="0" allowfullscreen></iframe>
 
-테스트2 
-	
-[test](https://www.youtube.com/watch?v=hDluVIuJGOo)
-
-![screenshot](https://cloud.githubusercontent.com/assets/1233318/11766107/11986d1e-a1ba-11e5-9066-4c6a1f723b05.jpg)
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/hDluVIuJGOo"></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/zN4hl9Lkcb4" frameborder="0" allowfullscreen></iframe>
