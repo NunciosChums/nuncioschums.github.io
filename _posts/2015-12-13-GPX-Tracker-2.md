@@ -5,7 +5,7 @@ title: GPX Tracker 2
 
 [![Platform](http://img.shields.io/badge/platform-ios-lightgrey.svg?style=flat)](https://developer.apple.com/resources/)
 [![Language](http://img.shields.io/badge/language-swift-orange.svg?style=flat)](https://developer.apple.com/swift)
-
+[available on the App Store](https://itunes.apple.com/app/gpx-tracker/id434117340?mt=8)
 
 Draw route in Google map -> Export to KML -> Send to iOS
 
