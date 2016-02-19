@@ -8,6 +8,7 @@ title: GPX Tracker 2
 
 [![Available on the app store](https://merlos.github.io/iOS-Open-GPX-Tracker/images/download-app-store.svg)](https://itunes.apple.com/app/gpx-tracker/id434117340?mt=8) 
 
+* Please send email to susemi99@gmail.com a .gpx/.kml/.tcx file if an error occurs.
 
 * Download source code: [https://github.com/susemi99/GPXTracker2](https://github.com/susemi99/GPXTracker2)
  
