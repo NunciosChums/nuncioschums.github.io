@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: susemi99
+name: zxcv
 
 # Short bio or description (displayed in the header)
 description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://en.gravatar.com/userimage/13842303/8b7475bab00e9fb8563bb68f8fa82b9a.jpg
+avatar: https://picsum.photos/200/200
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email: 
   facebook:
   flickr:
-  github: susemi99
+  github: 
   instagram:
   linkedin:
   pinterest:
