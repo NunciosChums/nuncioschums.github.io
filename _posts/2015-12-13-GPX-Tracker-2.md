@@ -16,9 +16,3 @@ title: GPX Tracker 2
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/hDluVIuJGOo" frameborder="0" allowfullscreen></iframe>
 
-
-* How to use GPX Tracker 
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/zN4hl9Lkcb4" frameborder="0" allowfullscreen></iframe>
-
-
